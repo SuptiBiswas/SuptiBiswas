@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Supti Biswas.
-- 👀 I completed my bachelor's and am currently an MS student in statistics at the University of Dhaka.
+- 👀 I completed my bachelor's and am currently an MS student in the Department of Statistics at the University of Dhaka.
 - 👀 I’m interested in time series analysis, computational statistics, machine learning and high dimensional data analysis, biostatistics.
 - 💞️ I’m looking for a graduate assistantship oppportunity and planning to join a high esteemed university.
 - 😄 Pronouns: She/her

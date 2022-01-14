@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SuptiBiswas
+- 👋 Hi, I’m Supti
 - 👀 I’m interested in time series analysis, computational statistics, machine learning and high dimensional data analysis, biostatistics
 - 💞️ I’m looking for a graduate assistantship oppportunity and planning to join a high esteemed university
 - 😄 Pronouns: She/her

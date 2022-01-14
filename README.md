@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Supti
-- 👀 I’m interested in time series analysis, computational statistics, machine learning and high dimensional data analysis, biostatistics
-- 💞️ I’m looking for a graduate assistantship oppportunity and planning to join a high esteemed university
+- 👋 Hi, I’m Supti.
+- 👀 I’m interested in time series analysis, computational statistics, machine learning and high dimensional data analysis, biostatistics.
+- 💞️ I’m looking for a graduate assistantship oppportunity and planning to join a high esteemed university.
 - 😄 Pronouns: She/her
 
 I'm best reached via email (supti.biswas.du@gmail.com). I'm always open to interesting conversations and collaboration. My [homepage](https://suptibiswas.github.io/).
